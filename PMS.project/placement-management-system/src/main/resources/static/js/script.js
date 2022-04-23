@@ -1,0 +1,1 @@
+console.log("this is sript file")
